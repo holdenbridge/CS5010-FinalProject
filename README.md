@@ -6,6 +6,6 @@ In this project we examined NBA basketball data from the last 5 full seasons. Ou
  - How do all teams compare against each for a given statistic 
  - How has the league in general trended for certain statistics over the last 5 seasons
 
-By: Holden Bridge, Nikhil Daga, and Tiger Hu
+By: Holden Bridge, Nikhil Daga, and Tiger Hu for CS5010 Final Project 
 
 August 2020
